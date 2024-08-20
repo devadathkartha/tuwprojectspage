@@ -4,7 +4,7 @@ import Aos from "aos";
 const Banner = () => {
   return (
     <div className="container mb-0">
-      <div className="bg-primary rounded-lg relative bottom-44">
+      <div className="bg-primary rounded-lg relative bottom-28 md:bottom-44">
       <div
         className=" text-white py-10 sm:min-h-[400px] flex justify-center items-center rounded-2xl"
       >
