@@ -88,7 +88,7 @@ const carlist=[
 const Projects = () => {
   return (
     <div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 relative bottom-48">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 relative bottom-32 md:bottom-48">
             {carlist.map(data=>(
                 <div class="item" data-aos="fade-up" data-aos-delay={data.aosDelay}>
                     <div class='main'>
