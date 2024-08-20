@@ -8,7 +8,7 @@ const Mainpara = ({}) => {
   return (
     <div className="bg-black text-white duration-300 ">
       <div className="container min-h-[620px] flex relative top-8 left-6">
-          <div className="space-y-5 pt-24 lg:pl-28 xl:pl-60 2xl:pl-80 place-items-center justify-items-center text-center ">
+          <div className="space-y-5 pt-24 mr-5 lg:pl-28 xl:pl-60 2xl:pl-80 place-items-center justify-items-center text-center ">
             <h1
               data-aos="fade-up"
               data-aos-delay="600"
