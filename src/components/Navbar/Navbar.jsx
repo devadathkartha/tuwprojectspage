@@ -34,7 +34,7 @@ const Navbar = () => {
   };
   return (
     <div
-      className="relative z-10 shadow-md w-full bg-black text-white duration-300
+      className="fixed bg-opacity-60 backdrop-blur-md z-10 shadow-md w-full bg-black text-white duration-300
     "   
     >
       <div className="container py-2 md:py-0">
